@@ -403,7 +403,10 @@ h6 {
 
 .grid-container > *:first-child {
   grid-row: 1 / span 3;
-  height: 63vh;
+}
+
+.card.about-container {
+  height: 37rem;
 }
 
 #aside-2 {
