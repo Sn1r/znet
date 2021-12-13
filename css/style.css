@@ -403,10 +403,11 @@ h6 {
 
 .grid-container > *:first-child {
   grid-row: 1 / span 3;
+  height: 63vh;
 }
 
 #aside-2 {
-  background: #ac1414;
+  background: #ac2b2b;
   color: #fff;
 }
 
