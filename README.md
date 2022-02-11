@@ -1,6 +1,5 @@
 # znet
 Ynet clone in Hebrew <br />
-
 Written in pure HTML \ CSS <br />
 
 Website: https://znet.netlify.app/home/
